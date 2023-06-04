@@ -1,0 +1,1 @@
+# Farm-Management-System is a software application designed to assist farmers in managing and organizing their agricultural operations efficiently. It provides a range of tools and features to streamline farm activities, optimize resource utilization, track data, and improve decision-making.
